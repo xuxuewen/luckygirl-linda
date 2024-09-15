@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Jack大叔的博客',
   domain: 'blog.jack-xu.cn/',
-  author: 'Jack Xu',
+  author: 'lucky girl-linda',
 
   // open graph metadata (optional)
   description: '个人博客',
